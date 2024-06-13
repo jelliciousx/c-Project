@@ -1,2 +1,4 @@
-# c-Project
-CLI Base Billing System 
+# c++-Project
+
+<br> 
+CLI Base Billing System
